@@ -1,0 +1,7 @@
+.App {
+  padding: 80px;
+}
+
+.active {
+  text-decoration: line-through;
+}
